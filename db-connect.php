@@ -1,6 +1,6 @@
 <?php 
 // Hostname
-$host = "e-conrol-db.c9kqumu24jgr.us-west-2.rds.amazonaws.com";
+$host = "education-db.c9kqumu24jgr.us-west-2.rds.amazonaws.com";
 // Username
 $uname = "admin";
 // Password
